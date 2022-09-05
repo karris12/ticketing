@@ -10,3 +10,4 @@ git is an interesting course to learn
 Showing the head changes
 Adding a new line of text from bugfix master
 Its a bright abd sunny today
+We are adding this new line from the GUI
