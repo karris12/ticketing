@@ -1,0 +1,6 @@
+This is text gitfile for cohhort 8
+the expectation is that at the end of this lecture we would
+1.  have one refreshed our memory of the last class
+2.learn about git branches
+3.open  git repositories 
+4. push our code from the local repository to the remote repositrory
