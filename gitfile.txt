@@ -7,3 +7,4 @@ the expectation is that at the end of this lecture we would
 
 5. we are adding new line to this file
 git is an interesting course to learn
+Showing the head changes
