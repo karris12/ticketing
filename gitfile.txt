@@ -6,3 +6,4 @@ the expectation is that at the end of this lecture we would
 4. push our code from the local repository to the remote repositrory
 
 5. we are adding new line to this file
+git is an interesting course to learn
